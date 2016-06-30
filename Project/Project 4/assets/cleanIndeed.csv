@@ -1,0 +1,100 @@
+,city,company,salary,title
+221,Chicago,Parallel Partners,1,Quantitative Research Analyst - MS061333
+436,Chicago,Catalina Marketing,0,"Senior Analyst, Data Science"
+440,Chicago,United Airlines,0,Senior Analyst - Statistics and Operations Research
+447,Chicago,Parallel Partners,1,Junior Quantitative Research Analyst - MS062161
+448,Chicago,Ginas Tech Jobs,1,Quantitative Research Analyst
+451,Chicago,Thermo Fisher Scientific,0,Applications Scientist
+452,Chicago,Sysmex,0,"Scientist I, Technical Support - Sysmex Inostics"
+453,Chicago,Gallup,0,Data Scientist – Predictive Analytics
+454,Chicago,Allstate Insurance,0,Machine Learning Engineer - Connected Car
+456,Chicago,"ACGT, Inc.",0,Bioinformatics Analyst
+458,Chicago,Cushman & Wakefield,0,Senior Research Analyst –IL
+459,Chicago,Allstate Insurance,1,Senior Telematics Data Scientist
+460,Chicago,Allstate Insurance,1,Data Science Manager
+461,Chicago,1010data,1,"Director, Data Insight Sales"
+462,Chicago,Allstate Insurance,1,Senior Data Scientist
+463,Chicago,Cameron Craig Group,1,Application Scientist
+464,Chicago,Next Step Systems,1,Junior Quantitative Research Analyst
+465,Chicago,Paul May and Associates,1,Data Scientist
+553,San+Francisco,Realogy Corporate,1,"Software Engineer, Data and Algorithms"
+641,San+Francisco,Sensor Tower,0,Content Developer / Writer
+665,San+Francisco,Ascend Clinical,0,Clinical Laboratory Scientist - Immunochemistry
+731,San+Francisco,Pharmacyclics,0,Statistical Programmer II/III
+740,San+Francisco,Ford Motor Company,1,Research Scientist
+744,San+Francisco,"Acumen, LLC",0,Data and Policy Analyst - Statistical Programmer
+754,San+Francisco,Sensentia,0,SW developers Computational Comprehension/ Machine Reasoning...
+760,San+Francisco,"Alambic Investment Management, LP",0,Data Scientist / Engineer
+761,San+Francisco,AbbVie,0,"Senior Scientist III/Principal Research Scientist, Pre-clini..."
+762,San+Francisco,Apple,0,"Software Engineer, iTunes- Big Data Play Activity"
+763,San+Francisco,Collabera,1,Data Scientist
+764,San+Francisco,Clorox,1,Global Insights Manager - Data Scientist
+765,San+Francisco,Apple,1,"Software Engineer, iTunes"
+1005,New+York,ZoomRx,1,Associate Consultant - Biotech/Pharma Market Research
+1043,New+York,Jackson Lewis P.C.,0,Statistician
+1048,New+York,"AbilTo, Inc",0,Data Scientist
+1055,New+York,Lancer Insurance Company,0,Data Scientist & Analytics Developer
+1056,New+York,Gallup,0,Data Scientist – Predictive Analytics
+1059,New+York,Princeton Consulting,1,Data Scientist
+1060,New+York,Cipla,0,Senior Scientist
+1062,New+York,New York University College of Dentistry,0,JUNIOR RESEARCH SCIENTIST McDevitt Research Laboratory
+1063,New+York,Uber,1,Data Scientist - Monitoring & Anomaly Detection Platform
+1064,New+York,Memorial Sloan Kettering,1,Data Scientist VI
+1065,New+York,ASCAP,1,Lead Data Scientist
+1076,Los+Angeles,Amgen,1,Signal Management Scientist (Global Safety Mgr)
+1146,Los+Angeles,Hollywood Presbyterian Medical Center,0,Clinical Laboratory Scientist
+1239,Los+Angeles,"Beckman Coulter, Inc.",1,Sr. Marketing Manager Automation NACO
+1326,Los+Angeles,UFL,0,Clinical Laboratory Scientist (CLS)
+1348,Los+Angeles,Cedars-Sinai,0,Clinical Lab Scientist II
+1369,Los+Angeles,Calance US,1,Big Data Specialist
+1370,Los+Angeles,Beachbody,0,"Scientist, Scientific Affairs"
+1451,Los+Angeles,"Virtualitics, LLC",1,Lead UX Designer
+1457,Los+Angeles,Crowe Horwath LLP,1,National Tax Office - Manager
+1458,Los+Angeles,Affinity Executive Search,1,Pharmaceutical R&D Scientist
+1468,Los+Angeles,"Amazon Web Services, Inc.",1,Software Development Engineer – New AWS Machine Learning- Re...
+1469,Los+Angeles,Onward Search,1,Data & Insights Director
+1497,Los+Angeles,"Beckman Coulter, Inc.",0,Senior Data Analyst
+1507,Los+Angeles,Gallup,0,Data Scientist – Predictive Analytics
+1515,Los+Angeles,eHarmony,0,Senior Machine Learning Engineer
+1517,Los+Angeles,Nestlé USA,0,Supply Chain Optimization Scientist
+1518,Los+Angeles,RAPP,1,"Director, Advanced Analytics Solutions"
+1519,Los+Angeles,Amgen,1,"Manager, Data Sciences & Analytics – Biotech"
+1520,Los+Angeles,Harnham,1,"VP of Analytics - Los Angeles - R, models, Media Entertainme..."
+1521,Los+Angeles,Amazon Corporate LLC,1,"Software Development Engineer, Big Data- Relocation Opportun..."
+1522,Los+Angeles,Vaco,1,Sr. Data Engineer
+1523,Los+Angeles,Cameron Craig Group,1,Principal Scientist - Analytical R&D
+1775,Atlanta,Home Depot,0,Data Analyst Supply Chain
+1780,Atlanta,Home Depot,0,STATISTICAL FORECAST ANALYST
+1834,Atlanta,Equifax,0,"Data Scientist, Identity & Linking"
+1854,Atlanta,Home Depot,0,"Data Scientist , Supply Chain"
+1882,Atlanta,Florence Healthcare,1,Senior Front-End (AngularJS) Developer
+1885,Atlanta,Crowe Horwath LLP,1,National Tax Office - Manager
+1886,Atlanta,Verizon,0,Junior Data Scientist - Data Analytics
+1936,Atlanta,Modis,1,Data Scientist Job - Atlanta Based or Telecommute Option
+1940,Atlanta,Home Depot,0,DATA SCIENTIST
+1941,Atlanta,Equifax,0,Data Scientist
+1943,Atlanta,Home Depot,0,DATA SCIENTIST- Space Optimization
+1944,Atlanta,Gallup,1,Data Scientist – Predictive Analytics
+1945,Atlanta,Newell Rubbermaid,1,Senior eCommerce Data Engineer
+1946,Atlanta,Verizon,1,Principal Data Scientist - Supply Chain
+1947,Atlanta,Equifax,1,Statistical Consultant / Data Scientist
+1948,Atlanta,Amazon Corporate LLC,1,"Software Development Engineer, Big Data- Relocation Opportun..."
+2165,Austin,Thermo Fisher Scientific,0,Application Scientist
+2258,Austin,"Amazon Web Services, Inc.",1,Software Development Engineer – Emerging AWS Machine Learnin...
+2611,Austin,"RetailMeNot, Inc.",1,"Sr. Software Engineer, CRM"
+2615,Austin,CCC Information Services,1,Sr. Java Developer - IoT Data Platforms
+2619,Austin,Gallup,0,Data Scientist – Predictive Analytics
+2636,Austin,MaxPoint,0,Senior Data Scientist - Geospatial Analytics
+2637,Austin,Indeed,0,Data Scientist
+2638,Austin,"RetailMeNot, Inc.",1,Sr. Data Scientist
+2639,Austin,MaxPoint,1,Senior Data Scientist - Machine Learning
+2640,Austin,Indeed,1,Data Engineer
+2641,Austin,Amazon,1,"Software Development Engineer, Big Data"
+2642,Austin,MaxPoint,1,Senior Data Scientist
+2643,Austin,MaxPoint,1,Senior Data Scientist - Econometrics
+2644,Austin,MaxPoint,1,Senior Data Scientist - Signal Processing
+2645,Austin,"RetailMeNot, Inc.",1,"Director of Data Science, Digital Attribution"
+2646,Austin,Amazon Corporate LLC,1,"Software Development Engineer, Big Data- Relocation Opportun..."
+2647,Austin,"Amazon Web Services, Inc.",1,Software Development Engineer – New AWS Machine Learning- Re...
+2648,Austin,Roland & Associates,1,Data Scientist
+2649,Austin,Simple[A] LLC,1,"Technical Digital Marketing, CMS, Customer Experience Manage..."
