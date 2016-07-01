@@ -1,62 +1,109 @@
 ,city,company,salary,title
-344,Chicago,"ACGT, Inc.",0,Bioinformatics Analyst
-345,Chicago,Parallel Partners,0,Quantitative Research Analyst - MS061333
-348,Chicago,CyberCoders,0,Open Source Developer
-349,Chicago,CyberCoders,0,"Solution Architect - Hadoop, Kafka, HDFS, Scala"
-350,Chicago,GLE Creative Talent,0,"Senior Director, Formulary Access Solution"
-351,Chicago,kCura,0,"Director, Business Analytics"
-352,Chicago,CyberCoders,0,"Senior Solution Architect - Hadoop, Kafka, HDFS, Scala"
-353,Chicago,C+R Research,0,Sr. Quantitative Research Analyst
-354,Chicago,Parallel Partners,1,Junior Quantitative Research Analyst - MS062161
-355,Chicago,Ginas Tech Jobs,1,Quantitative Research Analyst
-356,Chicago,Consulting,1,Senior Ruby Developer
-357,Chicago,Next Step Systems,1,Junior Quantitative Research Analyst
-467,San+Francisco,Cancer Prevention Institution of California,0,"Oncology Data Specialist (with CTR) - Fremont, CA 1605"
-508,San+Francisco,Cancer Prevention Institution of California,0,"Oncology Data Specialist (without CTR) - Fremont, CA 1607"
-509,San+Francisco,Amaris,0,Senior Software Developer (Machine Learning)
-536,San+Francisco,IBM,1,Continuous Delivery Engineer
-632,San+Francisco,"Personalis, Inc",1,Bioinformatics Engineer
-638,San+Francisco,CyberCoders,1,Senior Data Scientist
-639,San+Francisco,CyberCoders,1,Data Scientist
-654,San+Francisco,Sensor Tower,0,Content Developer / Writer
-655,San+Francisco,Client of Protean Solutions Inc,1,Data Scientist
-656,San+Francisco,First Republic Bank,1,Quantitative Analyst
-657,San+Francisco,Mindlance,1,Senior Big Data Software Engineer
-792,New+York,Celmatix Inc.,0,Senior Data Scientist
-814,New+York,Verizon,0,Principal Data Scientist - Supply Chain
-815,New+York,Pinnacle HR LLC,0,Chief Financial Officer
-937,New+York,GQR Global Markets,1,Senior Data Scientist| Machine Learning Researcher|
-938,New+York,GQR Global Markets,1,Machine Learning Quant
-955,New+York,Uber,1,Data Scientist - Monitoring & Anomaly Detection Platform
-956,New+York,Hospital for Special Surgery,1,Senior Value Scientist
-957,New+York,Parallel Partners,1,Quantitative Analyst - MS060305
-1099,Los+Angeles,Danaher,1,Credit and Collections Manager
-1371,Los+Angeles,"Reagent World, Inc.",0,"Chemist $45,010.00 - Project Lead"
-1372,Los+Angeles,Vaco,0,Sr. Data Engineer
-1390,Los+Angeles,Nestlé USA,0,Supply Chain Optimization Scientist
-1391,Los+Angeles,"Virtualitics, LLC",0,VR software developer (Unity / C#)
-1392,Los+Angeles,Entech Instruments,0,Inventory Control Manager
-1393,Los+Angeles,Amgen,1,Signal Management Scientist (Global Safety Sr Mgr)
-1394,Los+Angeles,GQR Global Markets,1,Machine Learning & Advanced Analytics Lead
-1395,Los+Angeles,DKKD Staffing,1,"Senior Data Engineer (Big Data)- Irvine, CA"
-1396,Los+Angeles,Affinity Executive Search,1,Pharmaceutical R&D Scientist
-1397,Los+Angeles,Danaher,1,Data Scientist
-1398,Los+Angeles,Danaher,1,Salesforce.com Architect/Developer
-1399,Los+Angeles,Danaher,1,Oracle EBS Business Analyst - Installed Base & Service Contr...
-1537,Atlanta,"Flex HR, Inc. - Client is in Atlanta, GA",0,Project Analyst - Real Estate Research
-1542,Atlanta,Verizon,0,Junior Data Scientist - Data Analytics
-1543,Atlanta,Otogenetics Corporation,0,Bioinformatics/Computer Scientist with Bioinfomatics Experie...
-1544,Atlanta,Rishabh Software,0,Oracle OPM Subject Matter Experts
-1545,Atlanta,Verizon,0,Principal Data Scientist - Supply Chain
-1835,Seattle,CyberCoders,1,Principal Data Scientist
-1861,Seattle,"G2 Web Services, LLC",1,Principal Data Scientist
-1862,Seattle,"Akvelon, Inc.",1,Data Scientist/Engineer (SS774)
-1863,Seattle,Nordstrom,1,Marketing Analytics Data Scientist - Fashion Industry Opport...
-1864,Seattle,"G2 Web Services, LLC",1,Senior Data Scientist/Engineer
-1865,Seattle,"Seattle Genetics, Inc.",1,Safety Scientist/ Sr. Safety Scientist
-1866,Seattle,"Seattle Genetics, Inc.",1,"Sr./Principal Scientist, Process Chemistry"
-1999,Austin,SQUAREdomain,1,Senior Global Distribution Route Manager
-2026,Austin,Indeed,0,Product Marketing Manager
-2028,Austin,Indeed,0,Data Scientist
-2060,Austin,Indeed,0,Data Engineer
-2062,Austin,CCC Information Services,1,Sr. Java Developer - IoT Data Platforms
+154,Chicago,Cameron Craig Group,1,Application Scientist
+179,Chicago,Next Step Systems,1,Junior Quantitative Research Analyst
+227,Chicago,Allstate Insurance,1,Senior Data Scientist
+259,Chicago,Thermo Fisher Scientific,0,Applications Scientist
+260,Chicago,Parexel International,0,"Associate Manager, Statistical Programming"
+282,Chicago,Parexel International,0,Senior Statistical Programmer (Home Based)
+286,Chicago,Parallel Partners,1,Junior Quantitative Research Analyst - MS062161
+289,Chicago,Allstate Insurance,0,Machine Learning Engineer - Connected Car
+295,Chicago,CVS Health,0,"Predictive Modeling, Strategic Analytics"
+296,Chicago,Allstate Insurance,0,Data Science Manager
+297,Chicago,Gallup,1,Data Scientist – Predictive Analytics
+298,Chicago,Allstate Insurance,1,Senior Telematics Data Scientist
+299,Chicago,Paul May and Associates,1,Data Scientist
+380,San+Francisco,Walmart eCommerce,0,Research and Analytics
+549,San+Francisco,Sensentia,1,SW developers Computational Comprehension/ Machine Reasoning...
+550,San+Francisco,Walmart eCommerce,1,Smart Pricing Data Analyst
+582,San+Francisco,Roche,0,Data Scientist (Epidemiology & Health Economics Focus)
+589,San+Francisco,"Alambic Investment Management, LP",0,Data Scientist / Engineer
+595,San+Francisco,Workday,0,Data Scientist
+596,San+Francisco,Walmart eCommerce,0,Machine Learning Scientist
+597,San+Francisco,Walmart eCommerce,1,Data Scientist
+598,San+Francisco,Collabera,1,Data Scientist
+599,San+Francisco,Intuit,1,Data Scientist
+718,New+York,WorkFusion,1,"Research Scientist, Deep Learning"
+820,New+York,ZoomRx,1,Associate Consultant - Biotech/Pharma Market Research
+858,New+York,New York University College of Dentistry,0,JUNIOR RESEARCH SCIENTIST McDevitt Research Laboratory
+885,New+York,Chegg,1,"Sr. Data Scientist, Learning Services"
+889,New+York,1010data,0,"VP of Product, Data Insights"
+890,New+York,"AbilTo, Inc",0,Data Scientist
+892,New+York,ASCAP,1,Lead Data Scientist
+896,New+York,Lancer Insurance Company,0,Data Scientist & Analytics Developer
+897,New+York,Uber,1,Data Scientist - Monitoring & Anomaly Detection Platform
+898,New+York,Gallup,1,Data Scientist – Predictive Analytics
+899,New+York,Memorial Sloan Kettering,1,Data Engineer
+1143,Los+Angeles,Matrix Resources,1,Lead Data Warehouse/Big Data Expert
+1232,Los+Angeles,UFL,0,Clinical Laboratory Scientist (CLS)
+1246,Los+Angeles,"Virtualitics, LLC",1,Lead UX Designer
+1249,Los+Angeles,Amgen,1,Signal Management Scientist (Global Safety Mgr)
+1287,Los+Angeles,Parexel International,0,"Associate Manager, Statistical Programming"
+1297,Los+Angeles,Nestlé USA,0,Supply Chain Optimization Scientist
+1300,Los+Angeles,Celgene,1,"Principal Scientist, Computational Biology (Position may be..."
+1324,Los+Angeles,Strategic Employment Partners,1,Machine Learning Engineer
+1326,Los+Angeles,Covance,1,Clinical Team Lead
+1327,Los+Angeles,Amazon Corporate LLC,1,Principal Data Scientist - Consumer Website- Relocation Oppo...
+1328,Los+Angeles,Parexel International,0,Senior Statistical Programmer (Home Based)
+1332,Los+Angeles,Amgen,1,"Manager, Data Sciences & Analytics – Biotech"
+1350,Los+Angeles,eHarmony,0,Senior Machine Learning Engineer
+1351,Los+Angeles,Lawrence Harvey,0,Data Scientist
+1353,Los+Angeles,Harnham,1,"VP of Analytics - Los Angeles - R, models, Media Entertainme..."
+1354,Los+Angeles,RAPP,1,"Director, Advanced Analytics Solutions"
+1355,Los+Angeles,CyberCoders,1,Senior Data Scientist
+1356,Los+Angeles,Gallup,1,Data Scientist – Predictive Analytics
+1357,Los+Angeles,BOEING,1,Junior Systems Engineering CAM
+1358,Los+Angeles,Calance US,1,Big Data Specialist
+1359,Los+Angeles,HKA Enterprises,1,Big Data Specialist / Oracle Big Data Appliance / Cloudera H...
+1360,Los+Angeles,Vaco,1,Sr. Data Engineer
+1867,Atlanta,Home Depot,0,Data Analyst Supply Chain
+1869,Atlanta,Parexel International,0,"Associate Manager, Statistical Programming"
+1870,Atlanta,Home Depot,0,"Data Scientist , Supply Chain"
+1871,Atlanta,AT&T,0,Business Marketing Senior Data Analysis
+1890,Atlanta,"SolTech, Inc",1,Data Scientist
+1898,Atlanta,Parexel International,0,Senior Statistical Programmer (Home Based)
+1905,Atlanta,ADP,1,Principal Appl. Developer-61004G
+1920,Atlanta,ADP,1,UX Designer II
+1921,Atlanta,ADP,1,Principal Architect
+1922,Atlanta,ADP,1,Application Developer
+1924,Atlanta,ADP,1,Principal Data Architect
+1925,Atlanta,ADP,1,Principal Applications Architect - Java / Angular
+1926,Atlanta,ADP,1,Principal Architect - Applications
+1927,Atlanta,Verizon,0,Junior Data Scientist - Data Analytics
+1928,Atlanta,Equifax,0,Data Scientist
+1931,Atlanta,Home Depot,0,DATA SCIENTIST
+1933,Atlanta,Home Depot,0,DATA SCIENTIST- Space Optimization
+1934,Atlanta,Gallup,1,Data Scientist – Predictive Analytics
+1935,Atlanta,Equifax,1,Statistical Consultant / Data Scientist
+1936,Atlanta,Modis,1,Data Scientist Job - Atlanta Based or Telecommute Option
+1937,Atlanta,"Emcien, Inc.",1,C Developer for Data Science Product
+1938,Atlanta,Verizon,1,Principal Data Scientist - Supply Chain
+1939,Atlanta,Newell Rubbermaid,1,Senior eCommerce Data Engineer
+1940,Atlanta,Hunter Technical Resources,1,Data Scientist
+1941,Atlanta,ADP,1,Lead Application Developer
+2170,Seattle,Parexel International,0,"Associate Manager, Statistical Programming"
+2172,Seattle,FiveBy,0,Sr. SQL Architect
+2197,Seattle,Amazon,1,Business Intelligence Engineer
+2198,Seattle,"Parametrix, Inc.",1,Senior Environmental Scientist
+2200,Seattle,"Akvelon, Inc.",1,Data Scientist/Engineer (SS774)
+2229,Seattle,Parexel International,0,Senior Statistical Programmer (Home Based)
+2239,Seattle,Amazon,1,"Machine Learning Scientist, Personalization"
+2244,Seattle,Nintendo of America Inc.,0,Principal Data Scientist
+2245,Seattle,Redfin,1,"Data Scientist, Discovery"
+2246,Seattle,"G2 Web Services, LLC",1,Principal Data Scientist
+2247,Seattle,"Akvelon, Inc.",1,Data Scientist (SS775)
+2248,Seattle,Efinancial,1,Technical Data Specialist - Business Intelligence/Analysis
+2503,Austin,"RetailMeNot, Inc.",1,"Sr. Software Engineer, CRM"
+2548,Austin,Thermo Fisher Scientific,0,Application Scientist
+2549,Austin,Weston Solutions,0,"Project Team Lead Needed: Project Scientist, Geologist, or E..."
+2555,Austin,MaxPoint,1,Senior Data Scientist - Geospatial Analytics
+2561,Austin,"RetailMeNot, Inc.",1,"Director of Data Science, Digital Attribution"
+2563,Austin,Amazon,1,"Software Development Engineer, Big Data"
+2573,Austin,Indeed,0,Data Scientist
+2577,Austin,CBIG Recruiting & Staffing,1,Sr. Data Scientist Contractor
+2578,Austin,TechTank,1,Data Scientist Programmer/Specialist
+2589,Austin,Sense Corp,0,Data Scientist
+2590,Austin,Gallup,0,Data Scientist – Predictive Analytics
+2591,Austin,Main Street Hub,0,Data Scientist
+2593,Austin,"RetailMeNot, Inc.",1,Sr. Data Scientist
+2594,Austin,Indeed,1,Data Engineer
+2595,Austin,MaxPoint,1,Senior Data Scientist
