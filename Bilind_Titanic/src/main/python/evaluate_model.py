@@ -30,9 +30,9 @@ class EvaluateModel():
         predicted = dfTest.predictedProb
         #dfTest["predictedClass"] = model.predict_proba(X)
 
-        coefDf = pd.DataFrame(list(zip(x.columns, np.transpose(model.coef_))))
+        #coefDf = pd.DataFrame(list(zip(x.columns, np.transpose(model.coef_))))
 
-        print coefDf
+        #print coefDf
         print metrics.accuracy_score(y, predicted)
         print metrics.classification_report(y, predicted)
         print metrics.confusion_matrix(y, predicted)

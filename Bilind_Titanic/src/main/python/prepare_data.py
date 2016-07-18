@@ -80,9 +80,9 @@ class PrepareData():
         dummiesSex = pd.get_dummies( df.Sex, prefix = "Sex" )
 
         join1 = df[otherPreds].join(dummiesAgeGrp)
-        join2 = join1[ join1.columns[:7] ].join(dummiesSex)
+        join2 = join1[ join1.columns ].join(dummiesSex)
 
-        finalDf = join2[ join2.columns[:8] ]
+        finalDf = join2[ join2.columns ]
 
         return finalDf
 
