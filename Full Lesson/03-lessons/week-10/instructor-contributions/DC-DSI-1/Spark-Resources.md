@@ -1,0 +1,4 @@
+- https://www.codementor.io/spark/tutorial/spark-mllib-logistic-regression
+- https://people.duke.edu/~ccc14/sta-663/Spark.html
+- https://databricks.com/blog/2014/09/29/scalable-decision-trees-in-mllib.html
+- http://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf
